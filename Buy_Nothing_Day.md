@@ -8,6 +8,6 @@ W Europie przypada w ostatnią sobotę listopada, w USA zaś, znany jako "Buy No
 
 Obchody tego dnia mają więc dość wyraźny wydźwięk antyglobalistyczny. Zamiast kolejnych wypraw do hipermarketów ludzie zachęcani są do uczestniczenia w wydarzeniach kulturalnych lub do aktywnego wyrażenia sprzeciwu wobec konsupcjonizmowi w formie różnych happeningów. Zrealizowane dotychczas pomysły to na przykład: przecinanie kart kredytowych w centrach handlowych, "spacer zombie" wokół hipermarketów czy też ustawianie sie w długie kolejki do kasy z pustymi koszykami.
 
-##Podsumowanie
+## Podsumowanie
 
 W Polsce pierwszy Dzień bez Zakupów obchodzony był w 2003 roku i cieszysię coraz większą popularnością, zwłaszcza wśród młodych osób. Ważne jednak, by święto bez kupowania nie było jednorazowym wydarzeniem, ale przyczynkiem do zmiany postaw życiowych i szerszego spojrzenia na współczesny system wartości.
