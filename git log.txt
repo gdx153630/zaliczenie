@@ -1,0 +1,8 @@
+d9d741670470f6183bb9ec0f50ebeadb55816a65 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #2 from gdx153630/playoff
+d7ac2554e6d1f2801f2f4b03717e97557e206c48 (tag: v1.1, origin/playoff, playoff) Spotkania finałowe baraży
+e16a09fdf31f3b2fa6c5f6bab2b2e66eb51e3d1f Spotkania półfinałowe baraży
+5045cadc69d31f5db9be1cae693f161d5d532801 Merge pull request #1 from gdx153630/buy_nothing_day
+58f45f01d25c048f05494edf75f06f6736768caa (tag: v1.0) Obchody dnia bez zakupów
+d4a58b97d056bab6e55cac961284886df61369b2 Opis dnia bez zakupów
+29381323c7907203d44aebfd01e59afe18c87754 Dzień bez zakupów
+b2b5633dce1477311f526160eb6635ff36851880 Initial commit
